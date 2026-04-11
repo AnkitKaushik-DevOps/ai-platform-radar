@@ -37,15 +37,18 @@ jobs:
             git commit -m "digest: AI platform updates $(date -u '+%Y-%m-%d')"
           git push
 
-      - name: Send email notification (optional)
-        if: ${{ secrets.NOTIFY_EMAIL != '' }}
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.GMAIL_USER }}
-          password: ${{ secrets.GMAIL_APP_PASSWORD }}
-          to: ${{ secrets.NOTIFY_EMAIL }}
-          from: AI Tracker Bot
-          subject: "AI Platform Updates — ${{ env.TODAY }}"
-          body: "New digest committed. Check your repo for today's updates."
+      # ── Optional email notification ──────────────────────────────────────────
+      # To enable: add GMAIL_USER, GMAIL_APP_PASSWORD, NOTIFY_EMAIL as repo secrets
+      # Then uncomment the step below and delete this comment block.
+      #
+      # - name: Send email notification
+      #   uses: dawidd6/action-send-mail@v3
+      #   with:
+      #     server_address: smtp.gmail.com
+      #     server_port: 465
+      #     username: ${{ secrets.GMAIL_USER }}
+      #     password: ${{ secrets.GMAIL_APP_PASSWORD }}
+      #     to: ${{ secrets.NOTIFY_EMAIL }}
+      #     from: AI Tracker Bot
+      #     subject: "AI Platform Updates — $(date -u '+%Y-%m-%d')"
+      #     body: "New digest committed. Check your repo for today's updates."
