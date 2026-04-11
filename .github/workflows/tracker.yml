@@ -1,0 +1,51 @@
+name: AI Platform Update Tracker
+
+on:
+  schedule:
+    - cron: '0 6 * * *'    # Every day at 6:00 AM UTC (11:30 AM IST)
+  workflow_dispatch:         # Manual trigger from Actions tab
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Run tracker
+        run: python scripts/tracker.py
+
+      - name: Commit digest
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add digests/ README.md .seen_ids.json
+          git diff --cached --quiet || \
+            git commit -m "digest: AI platform updates $(date -u '+%Y-%m-%d')"
+          git push
+
+      - name: Send email notification (optional)
+        if: ${{ secrets.NOTIFY_EMAIL != '' }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          to: ${{ secrets.NOTIFY_EMAIL }}
+          from: AI Tracker Bot
+          subject: "AI Platform Updates — ${{ env.TODAY }}"
+          body: "New digest committed. Check your repo for today's updates."
