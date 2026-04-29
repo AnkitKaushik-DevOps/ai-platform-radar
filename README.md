@@ -2,14 +2,14 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-1-green) ![Last Run](https://img.shields.io/badge/last_run-2026-04-28-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-1-green) ![Last Run](https://img.shields.io/badge/last_run-2026-04-29-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-04-28)
+## Latest digest (2026-04-29)
 
 | | |
 |---|---|
@@ -20,7 +20,7 @@ Automated daily digest of OpenAI and Azure deprecations, new tool launches, and 
 
 ### 🚀 New Launches
 
-- [The next phase of the Microsoft OpenAI partnership](https://openai.com/index/next-phase-of-microsoft-partnership) — *OpenAI*
+- [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) — *OpenAI*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
