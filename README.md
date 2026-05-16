@@ -2,28 +2,29 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-4-green) ![Last Run](https://img.shields.io/badge/last_run-2026-05-15-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-1-red) ![New Tools](https://img.shields.io/badge/new_tools-3-green) ![Last Run](https://img.shields.io/badge/last_run-2026-05-16-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-05-15)
+## Latest digest (2026-05-16)
 
 | | |
 |---|---|
-| ⚠️ Deprecations today | 0 |
-| 🚀 New launches today | 4 |
+| ⚠️ Deprecations today | 1 |
+| 🚀 New launches today | 3 |
 
+### ⚠️ Deprecations
 
+- [Grok Code Fast 1 deprecated](https://github.blog/changelog/2026-05-15-grok-code-fast-1-deprecated) — *GitHub Changelog*
 
 ### 🚀 New Launches
 
-- [Helping ChatGPT better recognize context in sensitive conversations](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations) — *OpenAI*
-- [Team-level Copilot usage metrics now available via API](https://github.blog/changelog/2026-05-14-team-level-copilot-usage-metrics-now-available-via-api) — *GitHub Changelog*
-- [GitHub Copilot app is now available in technical preview](https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview) — *GitHub Changelog*
-- [Introducing Copilot CLI agent and unified sessions view in GitHub Copilot for JetBrains IDEs](https://github.blog/changelog/2026-05-13-introducing-copilot-cli-agent-and-unified-sessions-view-in-github-copilot-for-jetbrains-ides) — *GitHub Changelog*
+- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) — *OpenAI*
+- [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) — *OpenAI*
+- [GitHub App installation tokens: Per-request override header](https://github.blog/changelog/2026-05-15-github-app-installation-tokens-per-request-override-header) — *GitHub Changelog*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
