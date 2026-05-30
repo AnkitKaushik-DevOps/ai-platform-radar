@@ -2,28 +2,26 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-4-green) ![Last Run](https://img.shields.io/badge/last_run-2026-05-29-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-2-green) ![Last Run](https://img.shields.io/badge/last_run-2026-05-30-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-05-29)
+## Latest digest (2026-05-30)
 
 | | |
 |---|---|
 | ⚠️ Deprecations today | 0 |
-| 🚀 New launches today | 4 |
+| 🚀 New launches today | 2 |
 
 
 
 ### 🚀 New Launches
 
-- [MUFG aims to become AI-native with OpenAI](https://openai.com/index/mufg) — *OpenAI*
-- [Hard budget limits now available for GitHub Advanced Security](https://github.blog/changelog/2026-05-28-hard-budget-limits-now-available-for-github-advanced-security) — *GitHub Changelog*
-- [CodeQL 2.25.5 improves query accuracy for GitHub Actions](https://github.blog/changelog/2026-05-28-codeql-2-25-5-improves-query-accuracy-for-github-actions) — *GitHub Changelog*
-- [Claude Opus 4.8 is generally available for GitHub Copilot](https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot) — *GitHub Changelog*
+- [Boston Children’s uses AI to unlock new diagnoses](https://openai.com/index/boston-childrens-hospital) — *OpenAI*
+- [Strengthening societal resilience with Rosalind Biodefense](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense) — *OpenAI*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
