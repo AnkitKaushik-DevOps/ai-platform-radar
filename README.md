@@ -2,28 +2,29 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-4-green) ![Last Run](https://img.shields.io/badge/last_run-2026-06-17-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-8-green) ![Last Run](https://img.shields.io/badge/last_run-2026-06-18-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-06-17)
+## Latest digest (2026-06-18)
 
 | | |
 |---|---|
 | ⚠️ Deprecations today | 0 |
-| 🚀 New launches today | 4 |
+| 🚀 New launches today | 8 |
 
 
 
 ### 🚀 New Launches
 
-- [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) — *OpenAI*
-- [GitHub Models is no longer available to new customers](https://github.blog/changelog/2026-06-16-github-models-is-no-longer-available-to-new-customers) — *GitHub Changelog*
-- [GitHub Code Quality generally available July 20, 2026](https://github.blog/changelog/2026-06-16-github-code-quality-generally-available-july-20-2026) — *GitHub Changelog*
-- [Organization-level enablement for GitHub Code Quality](https://github.blog/changelog/2026-06-16-organization-level-enablement-for-github-code-quality) — *GitHub Changelog*
+- [Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench) — *OpenAI*
+- [Generated release notes credit you for Copilot pull requests](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests) — *GitHub Changelog*
+- [Read remote repository content with GitHub CLI](https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli) — *GitHub Changelog*
+- [Secret scanning updates – June 2026](https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026) — *GitHub Changelog*
+- [Auto mode in Copilot Chat available for all users](https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users) — *GitHub Changelog*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
