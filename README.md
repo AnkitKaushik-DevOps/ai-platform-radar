@@ -2,14 +2,14 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-0-green) ![Last Run](https://img.shields.io/badge/last_run-2026-08-02-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-0-green) ![Last Run](https://img.shields.io/badge/last_run-2026-08-03-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-08-02)
+## Latest digest (2026-08-03)
 
 | | |
 |---|---|
