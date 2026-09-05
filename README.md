@@ -2,32 +2,28 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-2-red) ![New Tools](https://img.shields.io/badge/new_tools-6-green) ![Last Run](https://img.shields.io/badge/last_run-2026-09-04-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-4-green) ![Last Run](https://img.shields.io/badge/last_run-2026-09-05-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-09-04)
+## Latest digest (2026-09-05)
 
 | | |
 |---|---|
-| ⚠️ Deprecations today | 2 |
-| 🚀 New launches today | 6 |
+| ⚠️ Deprecations today | 0 |
+| 🚀 New launches today | 4 |
 
-### ⚠️ Deprecations
 
-- [GitHub Actions: Early September 2026 updates](https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates) — *GitHub Changelog*
-- [Upcoming deprecation of selected GitHub Copilot models](https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models) — *GitHub Changelog*
 
 ### 🚀 New Launches
 
-- [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders) — *OpenAI*
-- [Multiple trusted publishing configurations for npm](https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm) — *GitHub Changelog*
-- [GitHub Actions: Early September 2026 updates](https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates) — *GitHub Changelog*
-- [GitHub CLI Linux package signing key expires September 5](https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5) — *GitHub Changelog*
-- [Gemini 3.8 Flash is now available in GitHub Copilot](https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot) — *GitHub Changelog*
+- [GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra) — *OpenAI*
+- [GitHub Copilot weekly releases — August 31](https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31) — *GitHub Changelog*
+- [GPT-6 Astra is generally available in GitHub Copilot](https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot) — *GitHub Changelog*
+- [New API endpoint provides privacy-safe star history data](https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data) — *GitHub Changelog*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
