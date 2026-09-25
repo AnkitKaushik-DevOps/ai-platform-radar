@@ -2,27 +2,26 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-3-green) ![Last Run](https://img.shields.io/badge/last_run-2026-09-24-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-2-green) ![Last Run](https://img.shields.io/badge/last_run-2026-09-25-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-09-24)
+## Latest digest (2026-09-25)
 
 | | |
 |---|---|
 | ⚠️ Deprecations today | 0 |
-| 🚀 New launches today | 3 |
+| 🚀 New launches today | 2 |
 
 
 
 ### 🚀 New Launches
 
-- [Introducing MentalHealthBench](https://openai.com/index/introducing-mentalhealthbench) — *OpenAI*
-- [ChatGPT Ads expands to Southeast Asia and Taiwan](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan) — *OpenAI*
-- [More ways to request and configure Copilot code reviews](https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews) — *GitHub Changelog*
+- [CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support](https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support) — *GitHub Changelog*
+- [Default Enablement of Copilot Features for Copilot Business and Enterprise](https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise) — *GitHub Changelog*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
