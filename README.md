@@ -2,14 +2,14 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-3-green) ![Last Run](https://img.shields.io/badge/last_run-2026-10-27-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-3-green) ![Last Run](https://img.shields.io/badge/last_run-2026-10-28-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-10-27)
+## Latest digest (2026-10-28)
 
 | | |
 |---|---|
@@ -20,9 +20,9 @@ Automated daily digest of OpenAI and Azure deprecations, new tool launches, and 
 
 ### 🚀 New Launches
 
-- [Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra) — *OpenAI*
-- [GitHub Copilot assisted permissions generally available](https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available) — *GitHub Changelog*
-- [GPT-6.1 Terra in GitHub Copilot](https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot) — *GitHub Changelog*
+- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) — *OpenAI*
+- [How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak) — *OpenAI*
+- [GitHub Copilot supports server-to-server authentication](https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication) — *GitHub Changelog*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
