@@ -2,27 +2,29 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-3-green) ![Last Run](https://img.shields.io/badge/last_run-2026-10-28-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-6-green) ![Last Run](https://img.shields.io/badge/last_run-2026-10-29-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-10-28)
+## Latest digest (2026-10-29)
 
 | | |
 |---|---|
 | ⚠️ Deprecations today | 0 |
-| 🚀 New launches today | 3 |
+| 🚀 New launches today | 6 |
 
 
 
 ### 🚀 New Launches
 
-- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) — *OpenAI*
-- [How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak) — *OpenAI*
-- [GitHub Copilot supports server-to-server authentication](https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication) — *GitHub Changelog*
+- [Route and orchestrate models with GitHub Copilot Fusion](https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion) — *GitHub Changelog*
+- [GitHub Copilot app, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases) — *GitHub Changelog*
+- [Security extension for the GitHub Copilot app](https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app) — *GitHub Changelog*
+- [GitHub Copilot in VS Code, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases) — *GitHub Changelog*
+- [GitHub Copilot Fusion now supports selection of local models](https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models) — *GitHub Changelog*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
