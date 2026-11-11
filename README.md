@@ -2,14 +2,14 @@
 
 Automated daily digest of OpenAI and Azure deprecations, new tool launches, and announcements.
 
-![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-4-green) ![Last Run](https://img.shields.io/badge/last_run-2026-11-10-blue)
+![Deprecations](https://img.shields.io/badge/deprecations-0-red) ![New Tools](https://img.shields.io/badge/new_tools-4-green) ![Last Run](https://img.shields.io/badge/last_run-2026-11-11-blue)
 
 ## What this tracks
 - **OpenAI** — blog posts, model deprecations, API changes, changelog
 - **Azure** — AI/ML service updates, retirements, new service launches
 - **GitHub** — Copilot and Actions changelog
 
-## Latest digest (2026-11-10)
+## Latest digest (2026-11-11)
 
 | | |
 |---|---|
@@ -20,10 +20,10 @@ Automated daily digest of OpenAI and Azure deprecations, new tool launches, and 
 
 ### 🚀 New Launches
 
-- [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education) — *OpenAI*
-- [ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace) — *OpenAI*
-- [Claude Fable 5.2 in GitHub Copilot](https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot) — *GitHub Changelog*
-- [Secret scanning detects secrets in GitHub Actions workflow logs](https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs) — *GitHub Changelog*
+- [Introducing Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt) — *OpenAI*
+- [Work at the Frontier: AI’s effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work) — *OpenAI*
+- [Gemini 4 Carbon in GitHub Copilot](https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot) — *GitHub Changelog*
+- [A more informative GitHub dashboard](https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard) — *GitHub Changelog*
 
 ## Digest archive
 All digests are stored in [`/digests`](./digests/) as dated Markdown files.
